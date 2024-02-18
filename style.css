@@ -188,3 +188,12 @@ main {
   color: var(--clr-white);
   background: var(--clr-black);
 }
+
+/* Alignment */
+
+.container{
+  display: flexbox;
+  justify-content: center;
+  padding-top: 30vh;
+  padding-left: 0vw;
+}
